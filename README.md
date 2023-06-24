@@ -1,0 +1,2 @@
+# KannadaMNIST
+kaggle KannadaMNIST sample
